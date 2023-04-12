@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="8" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-10T15:12:02 IST" name="Default suite" finished-at="2023-04-10T15:16:35 IST" duration-ms="272572">
+    <groups>
+    </groups>
+    <test started-at="2023-04-10T15:12:02 IST" name="Default test" finished-at="2023-04-10T15:16:35 IST" duration-ms="272572">
+      <class name="testCase.Tc_01">
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:12:02 IST" name="BeforeMethod" finished-at="2023-04-10T15:12:27 IST" duration-ms="24452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyLoginWithValidCredential()[pri:1, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:12:27 IST" name="verifyLoginWithValidCredential" finished-at="2023-04-10T15:12:39 IST" duration-ms="12141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredential -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:12:39 IST" name="afterMethod" finished-at="2023-04-10T15:12:41 IST" duration-ms="2152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:12:41 IST" name="BeforeMethod" finished-at="2023-04-10T15:12:58 IST" duration-ms="16958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyScrollDown()[pri:2, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:12:58 IST" name="verifyScrollDown" finished-at="2023-04-10T15:12:58 IST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyScrollDown -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:12:58 IST" name="afterMethod" finished-at="2023-04-10T15:12:59 IST" duration-ms="455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:12:59 IST" name="BeforeMethod" finished-at="2023-04-10T15:13:17 IST" duration-ms="18204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyScrollUp()[pri:3, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:13:17 IST" name="verifyScrollUp" finished-at="2023-04-10T15:13:17 IST" duration-ms="445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyScrollUp -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:13:17 IST" name="afterMethod" finished-at="2023-04-10T15:13:18 IST" duration-ms="749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:13:18 IST" name="BeforeMethod" finished-at="2023-04-10T15:13:41 IST" duration-ms="22567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyMouseHover()[pri:4, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:13:41 IST" name="verifyMouseHover" finished-at="2023-04-10T15:13:41 IST" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMouseHover -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:13:41 IST" name="afterMethod" finished-at="2023-04-10T15:13:42 IST" duration-ms="578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:13:42 IST" name="BeforeMethod" finished-at="2023-04-10T15:14:01 IST" duration-ms="19245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyDropDown()[pri:5, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:14:01 IST" name="verifyDropDown" finished-at="2023-04-10T15:14:02 IST" duration-ms="995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDropDown -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:14:02 IST" name="afterMethod" finished-at="2023-04-10T15:14:03 IST" duration-ms="613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:14:03 IST" name="BeforeMethod" finished-at="2023-04-10T15:14:26 IST" duration-ms="23872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifySearchBar()[pri:6, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:14:26 IST" name="verifySearchBar" finished-at="2023-04-10T15:14:38 IST" duration-ms="12062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchBar -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:14:38 IST" name="afterMethod" finished-at="2023-04-10T15:14:39 IST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:14:39 IST" name="BeforeMethod" finished-at="2023-04-10T15:15:18 IST" duration-ms="39121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyNewTabWindow()[pri:7, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:15:18 IST" name="verifyNewTabWindow" finished-at="2023-04-10T15:15:21 IST" duration-ms="2847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewTabWindow -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:15:21 IST" name="afterMethod" finished-at="2023-04-10T15:15:21 IST" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:15:21 IST" name="BeforeMethod" finished-at="2023-04-10T15:15:41 IST" duration-ms="20406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyCheckBox()[pri:8, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:15:41 IST" name="verifyCheckBox" finished-at="2023-04-10T15:16:03 IST" duration-ms="21288" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[timeout: Timed out receiving message from renderer: 20.000
+  (Session info: chrome=112.0.5615.50)
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [029f87c36d613d17b753857b229e25a7, clickElement {id=17657bc0-bab9-44a2-9a80-5782242da909}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.50, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\ASUS\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:57168}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57168/devtoo..., se:cdpVersion: 112.0.5615.50, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (029f87c36d613d17b753857b229e25a7)] -> xpath: //*[@id="nav-xshop"]/a[4]]
+Session ID: 029f87c36d613d17b753857b229e25a7]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 20.000
+  (Session info: chrome=112.0.5615.50)
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [029f87c36d613d17b753857b229e25a7, clickElement {id=17657bc0-bab9-44a2-9a80-5782242da909}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 112.0.5615.50, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\ASUS\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:57168}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57168/devtoo..., se:cdpVersion: 112.0.5615.50, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (029f87c36d613d17b753857b229e25a7)] -> xpath: //*[@id="nav-xshop"]/a[4]]
+Session ID: 029f87c36d613d17b753857b229e25a7
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:67)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:484)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:78)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+at jdk.proxy2/jdk.proxy2.$Proxy16.click(Unknown Source)
+at pages.MyAccountPage.checkbox(MyAccountPage.java:45)
+at testCase.Tc_01.verifyCheckBox(Tc_01.java:117)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckBox -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:16:03 IST" name="afterMethod" finished-at="2023-04-10T15:16:04 IST" duration-ms="1437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:16:04 IST" name="BeforeMethod" finished-at="2023-04-10T15:16:32 IST" duration-ms="28131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="getCookies()[pri:9, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:16:32 IST" name="getCookies" finished-at="2023-04-10T15:16:32 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCookies -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testCase.Tc_01@1d9b7cce]" started-at="2023-04-10T15:16:32 IST" name="afterMethod" finished-at="2023-04-10T15:16:35 IST" duration-ms="2450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testCase.Tc_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
